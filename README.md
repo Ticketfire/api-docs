@@ -342,7 +342,7 @@ If the `callback_url` parameter is set, the application will `POST` data back to
       "ticket_custom_label": "Gate",
       "ticket_custom_value": "North",
       "ticket_first_name": "Santa",
-      "ticket_last_name": "Claus"
+      "ticket_last_name": "Claus",
       "source" : "autoprocessor"
     }
 
