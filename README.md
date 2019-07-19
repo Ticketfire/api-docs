@@ -343,8 +343,9 @@ If the `callback_url` parameter is set, the application will `POST` data back to
       "ticket_custom_value": "North",
       "ticket_first_name": "Santa",
       "ticket_last_name": "Claus"
+      "source" : "autoprocessor"
     }
-    
+
 
 #### Example `POST` to `callback_url` After Ticket Failed Processing
 
