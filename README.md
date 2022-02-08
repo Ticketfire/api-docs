@@ -8,6 +8,7 @@
 | PROD | https://api2.ticketfire.com |
 
  DEV & STAGE endpoints are subject to change
+ 
  DEV is currently offline
 
 ## Common Patterns
