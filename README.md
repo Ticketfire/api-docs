@@ -9,7 +9,7 @@
 
  DEV & STAGE endpoints are subject to change
  
- DEV is currently offline
+ DEV is currently offline, stage is up to date with production as of 2/8/22
 
 ## Common Patterns
 
