@@ -7,9 +7,7 @@
 | STAGE | https://stage.ticketfire.com |
 | PROD | https://api2.ticketfire.com |
 
- DEV & STAGE endpoints are subject to change
- 
- DEV is currently offline, stage is up to date with production as of 2/8/22
+ DEV & STAGE endpoints are offline. Please contact us if you wish to integrate.
 
 ## Common Patterns
 
